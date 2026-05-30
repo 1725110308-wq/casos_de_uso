@@ -1,0 +1,427 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "XDzxsXB9Sg0tb-O_gsXaS",
+      "type": "ellipse",
+      "x": 551.4947633209545,
+      "y": 201.25760797002818,
+      "width": 78,
+      "height": 69,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iWnKv_Cxrcb-aRfoFumJ4"
+      ],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1283233178,
+      "version": 157,
+      "versionNonce": 2123931034,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107091936,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "guqSQXCWPITS55IxwWMAB",
+      "type": "line",
+      "x": 589.4947633209545,
+      "y": 270.2576079700282,
+      "width": 2,
+      "height": 109,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iWnKv_Cxrcb-aRfoFumJ4"
+      ],
+      "frameId": null,
+      "index": "a1",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 642437722,
+      "version": 267,
+      "versionNonce": 1202051674,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107091936,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -2,
+          109
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "P54BFjgmqPoK_deXdnpiZ",
+      "type": "line",
+      "x": 586.4947633209545,
+      "y": 384.2576079700282,
+      "width": 30,
+      "height": 61,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iWnKv_Cxrcb-aRfoFumJ4"
+      ],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1286829850,
+      "version": 125,
+      "versionNonce": 493715226,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107091936,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          30,
+          61
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "Nf319Xmrmi7R2hBqZMq9I",
+      "type": "line",
+      "x": 586.4947633209545,
+      "y": 383.2576079700282,
+      "width": 33,
+      "height": 61,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iWnKv_Cxrcb-aRfoFumJ4"
+      ],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 271156186,
+      "version": 143,
+      "versionNonce": 1281526746,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107091936,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -33,
+          61
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "1h5yXmZ89XQyCrlQALuul",
+      "type": "line",
+      "x": 587.4947633209545,
+      "y": 317.2576079700282,
+      "width": 43,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iWnKv_Cxrcb-aRfoFumJ4"
+      ],
+      "frameId": null,
+      "index": "a4",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 985659546,
+      "version": 122,
+      "versionNonce": 446169242,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107091936,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          43,
+          25
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "AJDykB0CTzCSlSvs9lGV7",
+      "type": "line",
+      "x": 589.4947633209545,
+      "y": 317.2576079700282,
+      "width": 42,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iWnKv_Cxrcb-aRfoFumJ4"
+      ],
+      "frameId": null,
+      "index": "a5",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1546245466,
+      "version": 121,
+      "versionNonce": 331406682,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107091936,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -42,
+          25
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "79Spmri8YPRat63pLXFMO",
+      "type": "rectangle",
+      "x": 932,
+      "y": 77,
+      "width": 370,
+      "height": 547,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 928377414,
+      "version": 815,
+      "versionNonce": 322831814,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "ACaR9y2QylK1oDRTrIcPT"
+        }
+      ],
+      "updated": 1780107096082,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ACaR9y2QylK1oDRTrIcPT",
+      "type": "text",
+      "x": 945.3841857910156,
+      "y": 190.5,
+      "width": 343.23162841796875,
+      "height": 320,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": null,
+      "seed": 1659679110,
+      "version": 976,
+      "versionNonce": 1380277510,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107096082,
+      "link": null,
+      "locked": false,
+      "text": "podran visualisar los horarios de los talleres\n\nse podra comunicar con un chat bot para\nresolver dudas \n\ncontactar directamente al instructor\n\nvisualisar material de clase\n\npodran descargar el material puesto por el\nintructor\n\nsera notificado en la bandeja de entrad del\nusuario cualquier cambios relisados\n\n",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "79Spmri8YPRat63pLXFMO",
+      "originalText": "podran visualisar los horarios de los talleres\n\nse podra comunicar con un chat bot para resolver dudas \n\ncontactar directamente al instructor\n\nvisualisar material de clase\n\npodran descargar el material puesto por el intructor\n\nsera notificado en la bandeja de entrad del usuario cualquier cambios relisados\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "sbydHd_0_DBy9e6ZHdY5E",
+      "type": "text",
+      "x": 1076.660041809082,
+      "y": 101,
+      "width": 80.67991638183594,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": null,
+      "seed": 144831174,
+      "version": 297,
+      "versionNonce": 1832621018,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1780107119137,
+      "link": null,
+      "locked": false,
+      "text": "usuarios",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "usuarios",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "JUwIw8D2zPHU7UbQFBw6m",
+      "type": "text",
+      "x": 535,
+      "y": 462,
+      "width": 89.96394348144531,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": null,
+      "seed": 1950493382,
+      "version": 64,
+      "versionNonce": 1514236038,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1780107116143,
+      "link": null,
+      "locked": false,
+      "text": "publico",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "publico",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
