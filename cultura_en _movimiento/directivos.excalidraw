@@ -274,7 +274,7 @@
       "id": "RpjjkJNdfejQGmPz3pwK0",
       "type": "rectangle",
       "x": 975,
-      "y": 74,
+      "y": 72.88888888888891,
       "width": 370,
       "height": 547,
       "angle": 0,
@@ -292,8 +292,8 @@
         "type": 3
       },
       "seed": 410079059,
-      "version": 799,
-      "versionNonce": 736991603,
+      "version": 800,
+      "versionNonce": 665598045,
       "isDeleted": false,
       "boundElements": [
         {
@@ -317,16 +317,16 @@
           "type": "arrow"
         }
       ],
-      "updated": 1780108134052,
+      "updated": 1780108524869,
       "link": null,
       "locked": false
     },
     {
       "id": "DCTRNo5PCPHItkmd-lqcl",
       "type": "text",
-      "x": 984.6321563720703,
-      "y": 247.5,
-      "width": 350.7356872558594,
+      "x": 988.8401489257812,
+      "y": 246.3888888888889,
+      "width": 342.3197021484375,
       "height": 200,
       "angle": 0,
       "strokeColor": "#1971c2",
@@ -341,20 +341,20 @@
       "index": "a7",
       "roundness": null,
       "seed": 1121053939,
-      "version": 1413,
-      "versionNonce": 1214853811,
+      "version": 1418,
+      "versionNonce": 665650643,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1780108114537,
+      "updated": 1780108533215,
       "link": null,
       "locked": false,
-      "text": "podrán subir la documentación necesaria para\nlos talleres\n\npodrán subir información de los eventos \n\npodrán subir información de le los intructores\n\ntendran control sobre los instructores\n\n",
+      "text": "podrá subir la documentación necesaria para\nlos talleres\n\npodrá subir información de los eventos \n\npodrá subir información de le los intructores\n\ntendra control sobre los instructores\n\n",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "RpjjkJNdfejQGmPz3pwK0",
-      "originalText": "podrán subir la documentación necesaria para los talleres\n\npodrán subir información de los eventos \n\npodrán subir información de le los intructores\n\ntendran control sobre los instructores\n\n",
+      "originalText": "podrá subir la documentación necesaria para los talleres\n\npodrá subir información de los eventos \n\npodrá subir información de le los intructores\n\ntendra control sobre los instructores\n\n",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -437,8 +437,8 @@
       "type": "arrow",
       "x": 628,
       "y": 280,
-      "width": 345,
-      "height": 25,
+      "width": 345.87677684601215,
+      "height": 25.89246717552234,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -454,11 +454,11 @@
         "type": 2
       },
       "seed": 1938751069,
-      "version": 109,
-      "versionNonce": 560676275,
+      "version": 110,
+      "versionNonce": 456492317,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1780108120229,
+      "updated": 1780108524870,
       "link": null,
       "locked": false,
       "points": [
@@ -467,8 +467,8 @@
           0
         ],
         [
-          345,
-          -25
+          345.87677684601215,
+          -25.89246717552234
         ]
       ],
       "lastCommittedPoint": null,
@@ -487,8 +487,8 @@
       "type": "arrow",
       "x": 629,
       "y": 280,
-      "width": 351,
-      "height": 109,
+      "width": 343.18216550797604,
+      "height": 105.77209383508034,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -504,11 +504,11 @@
         "type": 2
       },
       "seed": 1668026301,
-      "version": 100,
-      "versionNonce": 369473149,
+      "version": 101,
+      "versionNonce": 1071700349,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1780108124980,
+      "updated": 1780108524870,
       "link": null,
       "locked": false,
       "points": [
@@ -517,8 +517,8 @@
           0
         ],
         [
-          351,
-          109
+          343.18216550797604,
+          105.77209383508034
         ]
       ],
       "lastCommittedPoint": null,
@@ -537,8 +537,8 @@
       "type": "arrow",
       "x": 628,
       "y": 278,
-      "width": 356,
-      "height": 31,
+      "width": 341.9051423088382,
+      "height": 29.077883476478632,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -554,11 +554,11 @@
         "type": 2
       },
       "seed": 2076189459,
-      "version": 147,
-      "versionNonce": 658905853,
+      "version": 148,
+      "versionNonce": 1893900765,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1780108129581,
+      "updated": 1780108524870,
       "link": null,
       "locked": false,
       "points": [
@@ -567,8 +567,8 @@
           0
         ],
         [
-          356,
-          31
+          341.9051423088382,
+          29.077883476478632
         ]
       ],
       "lastCommittedPoint": null,
@@ -587,8 +587,8 @@
       "type": "arrow",
       "x": 640,
       "y": 281,
-      "width": 332,
-      "height": 72,
+      "width": 333.3131926454396,
+      "height": 71.53312660933136,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -604,11 +604,11 @@
         "type": 2
       },
       "seed": 1223911059,
-      "version": 100,
-      "versionNonce": 1655213011,
+      "version": 101,
+      "versionNonce": 1129078333,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1780108134052,
+      "updated": 1780108524870,
       "link": null,
       "locked": false,
       "points": [
@@ -617,8 +617,8 @@
           0
         ],
         [
-          332,
-          72
+          333.3131926454396,
+          71.53312660933136
         ]
       ],
       "lastCommittedPoint": null,
